@@ -1,0 +1,77 @@
+{
+    "leagues":
+    [
+        {   "name": "Hockey",
+            "image": "http://www.kiprisoft.com/midterm/hockey.png",
+            "games":
+            [
+            	{
+					"game_state": "Final",
+            		"game_time": 1456662600,
+					"home_team_city": "Alberta",
+            		"home_team_name": "Pigs",
+            		"home_team_score": 1,
+            		"home_team_logo": "http://www.kiprisoft.com/midterm/pig.png",
+					"visit_team_city": "Montreal",
+            		"visit_team_name": "Fishes",
+            		"visit_team_score": 4,
+            		"visit_team_logo": "http://www.kiprisoft.com/midterm/fish.png"
+            	},
+            	{
+					"game_state": "Pregame",
+            		"game_time": 1456673400,
+					"home_team_city": "Calgary",
+            		"home_team_name": "Crabs",
+            		"home_team_score": 0,
+            		"home_team_logo": "http://www.kiprisoft.com/midterm/crab.png",
+					"visit_team_city": "London",
+            		"visit_team_name": "Bears",
+            		"visit_team_score": 0,
+            		"visit_team_logo": "http://www.kiprisoft.com/midterm/bear.png"
+            	},
+            	{
+					"game_state": "Pregame",
+            		"game_time": 1456677000,
+					"home_team_city": "Surrey",
+            		"home_team_name": "Caterpillars",
+            		"home_team_score": 0,
+            		"home_team_logo": "http://www.kiprisoft.com/midterm/caterpillar.png",
+					"visit_team_city": "Burnaby",
+            		"visit_team_name": "Bees",
+            		"visit_team_score": 0,
+            		"visit_team_logo": "http://www.kiprisoft.com/midterm/bee.png"
+            	}
+            ]
+        },
+        {   "name": "Basketball",
+            "image": "http://www.kiprisoft.com/midterm/basketball.png",
+            "games":
+            [
+				{
+					"game_state": "Final",
+            		"game_time": 1456662600,
+					"home_team_city": "Vancouver",
+            		"home_team_name": "Kittens",
+            		"home_team_score": 104,
+            		"home_team_logo": "http://www.kiprisoft.com/midterm/kitten.png",
+					"visit_team_city": "Waterloo",
+            		"visit_team_name": "Lambs",
+            		"visit_team_score": 95,
+            		"visit_team_logo": "http://www.kiprisoft.com/midterm/sheep.png"
+            	},
+				{
+					"game_state": "Pregame",
+            		"game_time": 1456677000,
+					"home_team_city": "Saskatoon",
+            		"home_team_name": "Squids",
+            		"home_team_score": 0,
+            		"home_team_logo": "http://www.kiprisoft.com/midterm/squid.png",
+					"visit_team_city": "Toronto",
+            		"visit_team_name": "Ladybugs",
+            		"visit_team_score": 0,
+            		"visit_team_logo": "http://www.kiprisoft.com/midterm/ladybugs.png"
+            	}
+            ]
+        }
+	]  
+}
